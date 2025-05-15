@@ -1,0 +1,21 @@
+ID,Categories,Name,Data Description,DataType,Data Source,URL,OriginalDataSource,Versions
+1,Soil prioperties,SOC map,Raster layer of soil organic carbon in Australia,tif,TERN,https://esoil.io/TERNLandscapes/Public/Products/TERN/SLGA/V1/SOC/SOC_000_005_EV_N_P_AU_NAT_C_20140801.tif,https://doi.org/10.4225/08/547523BB0801A,
+2,Soil prioperties,pH map,Raster layer of soil pH in Australia,tif,TERN,https://esoil.io/TERNLandscapes/Public/Products/TERN/SLGA/PHW/PHW_000_005_EV_N_P_AU_TRN_N_20220520.tif,https://doi.org/10.25919/37z2-0q10,
+3,Soil prioperties,P map,Raster layer of soil Total Phosphorus in Australia,tif,TERN,https://esoil.io/TERNLandscapes/Public/Products/TERN/SLGA/PTO/PTO_000_005_EV_N_P_AU_NAT_C_20231101.tif,https://doi.org/10.4225/08/546F617719CAF,
+4,Soil prioperties,CEC map,Raster layer of soil Effective Cation Exchange Capacity in Australia,tif,TERN,https://esoil.io/TERNLandscapes/Public/Products/TERN/SLGA/ECE/ECE_000_005_EV_N_P_AU_NAT_C_20140801.tif,https://doi.org/10.4225/08/546F091C11777,
+5,Soil prioperties,Sand map,Raster layer of soil sand contents in Australia,tif,TERN,https://esoil.io/TERNLandscapes/Public/Products/TERN/SLGA/SND/SND_000_005_EV_N_P_AU_TRN_N_20210902.tif,https://doi.org/10.25919/rjmy-pa10,
+6,Soil prioperties,Clay map,Raster layer of soil clay contents in Australia,tif,TERN,https://esoil.io/TERNLandscapes/Public/Products/TERN/SLGA/CLY/CLY_000_005_EV_N_P_AU_TRN_N_20210902.tif,https://doi.org/10.4225/08/546EEE35164BF,
+7,Soil classes,Soil Class map,Raster of soil classes across Australia,tif,TERN,https://portal.tern.org.au/metadata/TERN/15728dba-b49c-4da5-9073-13d8abe67d7c,https://doi.org/10.25901/edyr-wg85,
+8,Topography,Elevation map,Raster layer of Digital Elevation in Australia,tif,TERN,https://esoil.io/TERNLandscapes/Public/Products/TERN/Covariates/Mosaics/90m/Relief_dems_3s_mosaic1.tif,http://pid.geoscience.gov.au/dataset/ga/69888,version 1.0
+9,Topography,Slope map,Raster layer of slope in Australia,tif,TERN,https://esoil.io/TERNLandscapes/Public/Products/TERN/Covariates/Mosaics/90m/Relief_slope_perc.tif,https://doi.org/10.4225/08/5689DA774564A,
+10,Climate Data,Clim_meanann map,Raster layer of annual average daily mean temperature in Australia,tif,TERN,https://esoil.io/TERNLandscapes/Public/Products/TERN/Covariates/Mosaics/90m/Clim_meanann.tif,http://www.bom.gov.au/jsp/ncc/climate_averages/temperature/index.jsp,
+11,Climate Data,Clim_PTA map,Raster layer of annual precipitation in Australia,tif,TERN,https://esoil.io/TERNLandscapes/Public/Products/TERN/Covariates/Mosaics/90m/Clim_PTA.tif,https://doi.org/10.25919/gayv-1e32,
+12,Climate Data,Clim_TRA map,Raster layer of annual temperature range  in Australia,tif,TERN,https://esoil.io/TERNLandscapes/Public/Products/TERN/Covariates/Mosaics/90m/Clim_TRA.tif,https://doi.org/10.25919/gayv-1e32,
+13,Climate_2040,Clim_meanann_2040 map,Projectted raster layer of the annual average daily mean temperature for 2040 in Australia,tif,WorldClim,https://worldclim.org/data/cmip6/cmip6_clim30s.html,https://worldclim.org/data/cmip6/cmip6_clim30s.html,
+14,Climate_2040,Clim_meanann_2040 map,Projected raster layer of annual precipitation for 2040 in Australia,tif,WorldClim,https://worldclim.org/data/cmip6/cmip6_clim30s.html,https://worldclim.org/data/cmip6/cmip6_clim30s.html,
+15,Climate_2040,Clim_meanann_2040 map,Projectted raster layer of annual temperature range for 2040  in Australia,tif,WorldClim,https://worldclim.org/data/cmip6/cmip6_clim30s.html,https://worldclim.org/data/cmip6/cmip6_clim30s.html,
+16,Soil Land use,Land use map,Raster layers of land use accorss Australia,tif,Government,https://www.agriculture.gov.au/sites/default/files/documents/NLUM_v7_250_ALUMV8_2020_21_alb_package_20241128.zip,https://www.agriculture.gov.au/abares/aclump/land-use/land-use-of-australia-2010-11-to-2020-21,2020-21
+17,Sequencing,BASE database,Sequencing data of the samples from BASE,fastq,BASE,https://data.bioplatforms.com/organization/australian-microbiome,http://doi.org/10.4227/71/561c9bc670099,
+18,Sequencing,NGSA database,Sequencing data of the samples fromNGSA,fastq,NGSA,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/71973,https://doi.org/10.11636/Record.2011.020,
+,,,,,,,,
+,,,,,,,,
