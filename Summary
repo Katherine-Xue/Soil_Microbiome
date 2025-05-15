@@ -5,7 +5,7 @@ biodiversity.data.csv
 Contains the NMDS data of the observed samples along with their coordinates. The first row includes the column names.
 
 database.csv
-Lists all original data sources used in this study, including layers of soil properties, topography, climate data, and gene databases.
+Lists all the data sources used in this study, including layers of soil properties, topography, climate data, and gene databases.
 
 Code:
 
