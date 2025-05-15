@@ -1,0 +1,22 @@
+This repository contains the code and data supporting the findings of this study.
+Data:
+
+biodiversity.data.csv
+Contains the NMDS data of the observed samples along with their coordinates. The first row includes the column names.
+
+database.csv
+Lists all original data sources used in this study, including layers of soil properties, topography, climate data, and gene databases.
+
+Code:
+
+OpenCode_make_cv_RF.R
+Function script for building Random Forest models with cross-validation.
+
+OpenCode_prediction_models.R
+Script for model training and prediction.
+
+OpenCode_Map_predictions.R
+Script for generating spatial prediction maps.
+
+
+
