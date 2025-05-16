@@ -14,14 +14,22 @@ Contains the NMDS data of the observed samples along with their coordinates. The
 
 Code:
 
-OpenCode_make_cv_RF.R
-Function script for building Random Forest models with cross-validation.
+Code_make_cv_RF.R
+Function script for building Random Forest models.
 
-OpenCode_prediction_models.R
+Code_prediction_models.R
 Script for model training and prediction.
 
-OpenCode_Map_predictions.R
+Code_Map_predictions.R
 Script for generating spatial prediction maps.
+
+Code_Clustering.R
+Script for map clustering and map plotting.
+
+Code_phyloseq_filter_NMDS.R
+Script for constructing and filtering phyloseq objects, and performing beta diversity analysis using NMDS.
+
+
 
 
 
